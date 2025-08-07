@@ -1,5 +1,3 @@
----
-
 ## 📘 Apa Itu API?
 
 **API** (Application Programming Interface) adalah antarmuka yang memungkinkan dua sistem atau aplikasi untuk berkomunikasi satu sama lain. API memungkinkan pertukaran data dan perintah secara terstruktur.
